@@ -1,0 +1,93 @@
+.main
+{
+    width: 1500px;
+    height: 1600px;
+    border: 2px solid black;
+    margin: 50px auto;
+    background: url(./hss.jpg)no-repeat center center /cover;
+}
+.center
+{
+    height: 400px;
+}
+.h1
+{
+    text-align: center;
+    margin-top: 200px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p
+{
+    text-align: center;
+}
+.center2
+{
+    width: 1500px;
+    height: 700px;
+    margin: 50px auto;
+    background-color: white;
+}
+.h2
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+}
+.h3
+{
+    margin-left: 300px;
+    margin-top: 40px;
+    font-family: cursive;
+}
+.h4
+{
+    margin-left: 250px;
+}
+.p1
+{
+    margin-left: 180px;
+    font-size: 20px;
+}
+.p2
+{
+    margin-left: 220px;
+    font-size: 18px;
+}
+.p3
+{
+    margin-left: 180px;
+    font-size: 20px;
+}
+.past
+{
+    height: 400px;
+    font-size: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color:#0d9cc3;
+    padding-top: 30px;
+}
+.spn1
+{
+    font-size: 40px;
+    color: white;
+}
+.spn2
+{
+    font-size: 40px;
+    color: white;
+    margin-left: 10px;
+}
+.spn3
+{
+    font-size: 40px;
+    color: white;
+    margin-left: 10px;
+}
+.spn4
+{
+    font-size: 40px;
+    color: white;
+    margin-left: 10px;
+}
